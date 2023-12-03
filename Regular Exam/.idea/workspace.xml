@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb3e226a-075a-44f6-91b6-1d68ed7f7054" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Fundamentals/addAndSubstract.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentals/bitcoin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentals/charactersInRange.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentals/newtask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/Aquarium.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/BankBalance.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/Calculator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/CompulsoryLiterature.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/Converter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/Dispicabletask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/EasterCompetition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/EqualSumsEvenOddPosition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/Finaltask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/GivingInfo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/GodzilaVsKong.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/GodzillavsKong.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/Greeting.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/LucnhBreak.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/LunchBreak.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/Mathematics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/Moneyconverter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/MotherFddwsd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/Motherffwfw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/NewHouse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/Numbers 1...N with Step 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/OnTimeForTheExam.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/PerfectScore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/PetShop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/SequenceOfNumbers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/SwimminRecord.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/VowelsSumm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/WeekendOrWorkingDay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/YardGreening.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/aIfloop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/ages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/animalType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/balls.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/basketballequipment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/biggestNumber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/braceletStand.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/cake.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/careOfPuppy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/checkthisshit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/cinema.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/cinemaTicket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/cinemaVoucher.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/cinemas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/cleverLily.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/clock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/club.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/coffeeMachine.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/coffeeMachine1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/combinations.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/dayOfTheWeek.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/dfNewTask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/doingProjects.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/drinks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/eggPainting.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/exam.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/exampreparation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/excursionSale.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/familyTrip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/finalCompetition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/fishingboat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/floors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/footballTournament.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/fortask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/from100to200.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/fruitshop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/fuckingTask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/genderTask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/graduation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/graduationFinalTry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/graduationSecondTry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/greaterNumber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/hello.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/histogram.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/hotelRoom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/hotelRoom2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/hotelRoomFinalTry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/hotelRoomPrepisvana.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/if.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/ifLoop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/ifelse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/ifreversed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/ifstatements.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/iftask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/invalidNumber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/jorney.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/journey.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/lasttask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/mamakama.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/mathshit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/mathtask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/movieDay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/movieDestination.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/movieDestinationd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/moviePremiere.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/movieProfit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/movieStars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/movies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/moving.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/multiplicationTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/multiplicationTable1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/multiplyTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/newGame.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/newtask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/numberInRange.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/numbers1to100.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/numbersdivisebleby9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/numbersendingin7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/oddoreven.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/oldBooks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/oscar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/oscarsWeek.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/oscrars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/password.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/payment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/pcGameShop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/pcStore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/pennies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/personalTitles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/pool.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/prepis.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/prepiss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/printnumbers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/pyramid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/pyramid1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/readingLetters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/renovation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/rereadit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/series.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/seriesCalculator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/seventhTask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/shitTask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/shopping.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/shoptask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/skeleton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/skivacation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/smallestNumber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/sstepentask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/stepentask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/steps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/stepsFinalTry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/stringFor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/strongestWord.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/sumOf2Num.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/sumOfNumbers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/sumOfNumberss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/sumPrimeNonPrime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/summingOfseconds.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/summingVowels.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/task.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/tennisRankilst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/testing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/time.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/toyshop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/tradecomissions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/trainTheTrainers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/travelAgency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/traveling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/trekkingTask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/vacation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/vacation2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/vacationFianFinalTry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/vacationFinalTry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/vacationn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/vowelssum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/while.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming Basics JS SoftUni/workinghours.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshorts/Screenshot (165).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshorts/Screenshot (166).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshorts/Screenshot (167).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshorts/Screenshot (168).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshorts/Screenshot (169).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshorts/Screenshot (170).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshorts/Untitled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshorts/deliverypng.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshorts/equipmentpng.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshorts/if elsepng.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshorts/supplies for school.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshorts/Принт Нъмбърс.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshorts/сд.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenshorts/таскс.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2YeaRJoEiqgeKxWBPC5rGh7uONW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;R:/Programming/Django/09-exercise-orm-skeleton&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.caller">
+    <configuration name="admin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="REGULAR EXAM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main_app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_app/admin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="caller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="REGULAR EXAM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/caller.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="REGULAR EXAM" type="Python.DjangoServer" factoryName="Django server">
+      <module name="REGULAR EXAM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.caller" />
+        <item itemvalue="Python.admin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb3e226a-075a-44f6-91b6-1d68ed7f7054" name="Changes" comment="" />
+      <created>1700888490142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700888490142</updated>
+      <workItem from="1700888491268" duration="3032000" />
+      <workItem from="1700956265703" duration="12966000" />
+      <workItem from="1701008223343" duration="232000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/REGULAR_EXAM$caller.coverage" NAME="caller Coverage Results" MODIFIED="1700993435960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/REGULAR_EXAM$admin.coverage" NAME="admin Coverage Results" MODIFIED="1700983751109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main_app" />
+  </component>
+</project>
